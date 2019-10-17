@@ -3,3 +3,4 @@ django-celery == 3.3.0
 celery == 4.3.0
 redis == 3.3.5
 autopep8 == 1.4.4
+Pillow == 2.2.1
